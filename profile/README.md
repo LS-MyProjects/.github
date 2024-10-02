@@ -1,12 +1,16 @@
-## Hi there 👋
+# My Projects - Lucas Schmidt
 
-<!--
+[![GitHub followers](https://img.shields.io/github/followers/lschmidtdev?style=social)](https://github.com/lschmidtdev?tab=followers)
 
-**Here are some ideas to get you started:**
+👋 Welcome to my project repository! Here you'll find a collection of my professional and personal work, developed throughout my journey as a developer.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+**🚧 Under development! 🚧**
+
+This repository is constantly evolving as I organize and add new projects. New and existing projects will be added as my time allows.
+
+**What you'll find here:**
+
+* **Professional projects:** Examples of projects I have developed for clients, focusing on web and mobile solutions.
+* **Personal projects:** Explorations and experiments that allow me to learn new technologies and put my ideas into practice.
+
+**Alguns destaques (em breve!):**

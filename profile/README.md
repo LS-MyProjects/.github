@@ -13,4 +13,4 @@ This repository is constantly evolving as I organize and add new projects. New a
 * **Professional projects:** Examples of projects I have developed for clients, focusing on web and mobile solutions.
 * **Personal projects:** Explorations and experiments that allow me to learn new technologies and put my ideas into practice.
 
-**Alguns destaques (em breve!):**
+**Some highlights(coming soon!):**
